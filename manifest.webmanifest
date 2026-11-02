@@ -1,0 +1,15 @@
+{
+  "name": "Jeng’s Workbench",
+  "short_name": "Jeng",
+  "description": "Workbench cá nhân của Jeng",
+  "lang": "vi",
+  "start_url": "./workbench.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eaf5ff",
+  "theme_color": "#438fdf",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
+
